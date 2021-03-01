@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "Gusti Ananda",
+      "body": "Ini adalah tampilan isi dari file listArtikel.JSON"
+    },
+    {
+      "id": 1614580941245,
+      "body": "ini hasil dari tambah artikel"
+    }
+  ]
+}
