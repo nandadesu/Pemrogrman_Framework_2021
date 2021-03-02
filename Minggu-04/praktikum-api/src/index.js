@@ -2,8 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-//import App from './App';
-import BlogPost from './container/BlogPost/BlogPost'
+import BlogPost from './tugas/BlogPostMahasiswa'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(

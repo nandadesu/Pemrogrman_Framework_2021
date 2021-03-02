@@ -1,7 +1,6 @@
 const Post = (props) => {
     return(
         <div class="post-artikel">
-            <h2>Daftar Artikel</h2>
             <div class="artikel">
                 <div class= "gambar-artikel">
                     <img src="http://placeimg.com/80/80/tech" alt="Gambar Thumbnail"/>
@@ -14,7 +13,7 @@ const Post = (props) => {
                         <p className="angkatan">{props.angkatan}</p>
                         <p className="status">{props.status}</p>
 
-                        <button className="btn btn-sm btn-warning" onClick={() =>props.hapusArtikel(props.idArtikel)}>Hapus</button>
+                        <button className="btn btn-sm btn-warning" onClick={() =>props.hapusMahasiswa(props.idMahasiswa)}>Hapus</button>
                 </div>
             </div>
         </div>
