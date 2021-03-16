@@ -1,0 +1,17 @@
+#sidebar{
+    background-color: aquamarine;
+}
+
+#content{
+    background-color: whitesmoke;
+}
+
+.ul,li{
+    background-color: whitesmoke;
+    stroke: black;
+    list-style-type: none;
+    display: inline;
+    padding: 8px;
+    border-radius: black;
+}
+
