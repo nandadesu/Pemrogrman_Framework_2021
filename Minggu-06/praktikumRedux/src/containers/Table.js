@@ -41,29 +41,26 @@ class Table extends Component {
             {todo.text} {todo.completed === true ? "(completed)" : ""}
         </td>
         <td>
-            <span className="fas fa-minus-circle"onClick={() => this.props.deleteTodo(todo.id)}
+            <button type="button"  className="btn btn-danger" onClick={() => this.props.deleteTodo(todo.id)}
                 style={{
                     color: "white",
-                    fontSize: "20pt",
+                    fontSize: "10pt",
                     marginRight: "20px"
                 }}
-            />
-            <span className="fas fa-check-circle"onClick={() => this.props.toggleTodo(todo.id)}
-                style={{ color: "white", fontSize: "20pt" }}
-            />
+            >Delete</button>
+            <button type="button"  className="btn btn-light" onClick={() => this.props.toggleTodo(todo.id)}
+                style={{ color: "black", fontSize: "10pt" }}
+        >Toggle</button>
         </td>
     </tr>
     ))}
     </tbody>
     </table>
     ) : (
-    <div
-    style={{ marginTop: "50px" }}
-    className="col-lg-10 col-md-10 col-xs-12 col-sm-12 offset-lg-1"
-    >
-    <div className="alert alert-danger" role="alert">
-    Todo List is empty or Filter results show no results
-    </div>
+    <div style={{ marginTop: "50px" }}className="col-lg-10 col-md-10 col-xs-12 col-sm-12 offset-lg-1">
+        <div className="alert alert-danger" role="alert">
+            Todo List is empty or Filter results show no results
+        </div>
     </div>
     )}{" "}
  </div>
