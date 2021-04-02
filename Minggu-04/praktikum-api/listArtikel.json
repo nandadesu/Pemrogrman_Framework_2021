@@ -1,3 +1,14 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1617351952762,
+      "nim": "1841720131",
+      "nama": "Gusti Ananda",
+      "alamat": "adafwaw",
+      "telfon": "2423525",
+      "angkatan": "12334",
+      "status": "sqdqd"
+    }
+  ]
 }

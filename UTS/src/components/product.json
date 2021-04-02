@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "1",
+        "title": "ROG",
+        "src": "https://gadgetsquad.id/wp-content/uploads/2019/07/Laptop-Asus-ROG-Strix-600x400.jpg",
+        "content": "ASUS ROG GL503GE Core I7-8750H NVIDIA GTX 1050TI 4GB,Laptop Gaming premium tentumya, soal performa pastinya ngebut banget pake SSD 512GB,Udah siap lah untuk dipake kerja berat",
+        "price": 16000000,
+        "count": 1
+    },
+    {
+        "_id": "2",
+        "title": "Razer",
+        "src": "https://img.tek.id/img/content/2020/11/06/34271/razer-perkenalkan-laptop-mainstream-pertama-mereka-razer-book-13-FElK7OcCQy.jpg",
+        "content": "RAZER BLADE 14 2017 RZ09-0195 FHD Core i7-7700HQ Kabylake Nvidia Geforce GTX 1060,Laptop Gaming premium tentumya, soal performa pastinya ngebut banget pake SSD 512GB,Udah siap lah untuk dipake kerja berat",
+        "price": 14000000,
+        "count": 1
+    },
+    {
+        "_id": "3",
+        "title": "Legion",
+        "src": "https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2020/08/20/3752165283.png",
+        "content": "LENOVO LEGION Y740 Core I7-9750 NVIDIA RTX 2060 6GB,Laptop Gaming premium tentumya, soal performa pastinya ngebut banget pake SSD 512GB,Udah siap lah untuk dipake kerja berat",
+        "price": 15000000,
+        "count": 1
+    }
+]
