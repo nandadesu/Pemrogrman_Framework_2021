@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1614576464048,
+      "title": "iwak",
+      "body": "iwak\n"
+    },
+    {
+      "userId": 1,
+      "id": 1618281161492,
+      "title": "test",
+      "body": "test"
+    },
+    {
+      "userId": 1,
+      "id": 1618295096348,
+      "title": "Halo",
+      "body": "hello world"
+    }
+  ]
+}
